@@ -1,0 +1,41 @@
+.A{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+}
+.a1{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    border: 1px solid; 
+    background-color: blue;
+    padding: 5px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.ok{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    height: 100px;
+}
+.bg{
+    background-image: url(../public/navibar.jpg);
+    background-repeat: no-repeat;
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+
+}
+.x1{
+    font-size: 200px;
+    color: orange;
+    text-align: center;
+    margin-right: 300px;
+}
